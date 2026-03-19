@@ -14,7 +14,9 @@ os.makedirs(TEMP_DIR, exist_ok=True)
 print('=== ETAPA READ ===')
 print(f'Buscando archivo: {INPUT_FILE}')
 
-
+# FUNCION PARA ELIMINAR TILDES
+# FUNCION PARA ELIMINAR TILDES
+# FUNCION PARA ELIMINAR TILDES
 # FUNCION PARA ELIMINAR TILDES
 def quitar_tildes(texto):
     texto = str(texto)
