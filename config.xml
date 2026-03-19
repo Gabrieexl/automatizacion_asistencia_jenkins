@@ -1,0 +1,74 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<flow-definition plugin="workflow-job@1571.vb_423c255d6d9">
+  <actions>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobAction plugin="pipeline-model-definition@2.2277.v00573e73ddf1"/>
+    <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@2.2277.v00573e73ddf1">
+      <jobProperties/>
+      <triggers/>
+      <parameters/>
+      <options/>
+    </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
+  </actions>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@4259.vf653c2b_8a_b_69">
+    <script>pipeline {
+    agent any
+
+    environment {
+        PYTHON_PATH = &apos;C:\\Users\\DAVID\\AppData\\Local\\Programs\\Python\\Python311\\python.exe&apos;
+        EMAIL_USER = credentials(&apos;gmail-user&apos;)
+        EMAIL_PASS = credentials(&apos;gmail-app-password&apos;)
+        EMAIL_TO   = &apos;destinatario@gmail.com&apos;
+    }
+
+    stages {
+
+        stage(&apos;Preparar&apos;) {
+            steps {
+                bat &apos;&quot;%PYTHON_PATH%&quot; -m pip install pandas&apos;
+                bat &apos;&quot;%PYTHON_PATH%&quot; -m pip install openpyxl&apos;
+                bat &apos;&quot;%PYTHON_PATH%&quot; -m pip install reportlab&apos;
+            }
+        }
+
+        stage(&apos;READ&apos;) {
+            steps {
+                bat &apos;&quot;%PYTHON_PATH%&quot; &quot;%WORKSPACE%\\data_read.py&quot;&apos;
+            }
+        }
+
+        stage(&apos;TRANSFORM&apos;) {
+            steps {
+                bat &apos;&quot;%PYTHON_PATH%&quot; &quot;%WORKSPACE%\\data_transform.py&quot;&apos;
+            }
+        }
+
+        stage(&apos;EXPORT&apos;) {
+            steps {
+                bat &apos;&quot;%PYTHON_PATH%&quot; &quot;%WORKSPACE%\\data_export.py&quot;&apos;
+            }
+        }
+
+        stage(&apos;SEND_MAIL&apos;) {
+            steps {
+                bat &apos;&quot;%PYTHON_PATH%&quot; &quot;%WORKSPACE%\\send_mail.py&quot;&apos;
+            }
+        }
+    }
+
+    post {
+        success {
+            echo &apos;Pipeline ejecutado correctamente. Reporte generado y correo enviado.&apos;
+        }
+        failure {
+            echo &apos;El pipeline falló. Revisar consola de Jenkins.&apos;
+        }
+    }
+}</script>
+    <sandbox>true</sandbox>
+  </definition>
+  <triggers/>
+  <disabled>false</disabled>
+</flow-definition>

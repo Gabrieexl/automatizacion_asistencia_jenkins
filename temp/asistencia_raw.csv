@@ -1,0 +1,361 @@
+﻿Fecha,Dia,ID_Empleado,Nombre,Area,Cargo,Sede,Hora_Entrada_Programada,Hora_Entrada_Real,Hora_Salida_Programada,Hora_Salida_Real,Estado,Minutos_Tardanza,Incidencia,Observacion
+2026-02-02,Lunes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,09:28:00,18:00:00,18:07:00,Tardanza,18.0,Tardanza,Demora de transporte
+2026-02-02,Lunes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:45:00,18:00:00,17:57:00,Tardanza,35.0,Tardanza,Tráfico
+2026-02-02,Lunes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,09:24:00,18:00:00,18:06:00,Tardanza,14.0,Tardanza,Tráfico
+2026-02-02,Lunes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:04:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,Lunes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:07:00,18:00:00,17:48:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-02,Lunes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:46:00,18:00:00,18:01:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,Lunes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:53:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-02,Lunes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:40:00,18:00:00,18:26:00,Tardanza,30.0,Tardanza,Demora de transporte
+2026-02-02,Lunes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:59:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-02,Lunes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,09:00:00,18:00:00,18:00:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-02,Lunes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:06:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-02,Lunes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:54:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,Lunes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:53:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-02,Lunes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:03:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-02,Lunes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:49:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,Lunes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:02:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-02,Lunes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:06:00,18:00:00,17:51:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-02,Lunes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:54:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,09:10:00,18:00:00,18:08:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:02:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:59:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:00:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,08:58:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:46:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:44:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:50:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:10:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:51:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:10:00,18:00:00,18:04:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-03,Martes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:45:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:48:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:06:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:45:00,18:00:00,18:11:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,Martes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:00:00,18:00:00,17:53:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:06:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-03,Martes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:59:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,Miércoles,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:48:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-04,Miércoles,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:54:00,18:00:00,18:11:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,Miércoles,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:49:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,08:49:00,18:00:00,18:25:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,,18:00:00,,Falta,,Falta,Sin justificar
+2026-02-04,Miércoles,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:09:00,18:00:00,18:09:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:57:00,18:00:00,18:01:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-04,Miércoles,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:00:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,Miércoles,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:55:00,18:00:00,18:00:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:55:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,Miércoles,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:17:00,18:00:00,17:55:00,Tardanza,7.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-04,Miércoles,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:45:00,18:00:00,18:03:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:55:00,18:00:00,17:59:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,Miércoles,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:44:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-04,Miércoles,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:59:00,18:00:00,17:48:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:47:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,Miércoles,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:10:00,18:00:00,17:51:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-04,Miércoles,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:50:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-05,Jueves,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,09:07:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-05,Jueves,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:29:00,18:00:00,18:05:00,Tardanza,19.0,Tardanza,Demora de transporte
+2026-02-05,Jueves,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,09:05:00,18:00:00,18:08:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:09:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:09:00,18:00:00,17:59:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:49:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,09:00:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:00:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-05,Jueves,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:03:00,18:00:00,18:08:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,09:30:00,18:00:00,18:21:00,Tardanza,20.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-05,Jueves,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:42:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-05,Jueves,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:44:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:53:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:45:00,18:00:00,18:11:00,Tardanza,35.0,Tardanza,Tráfico
+2026-02-05,Jueves,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:58:00,18:00:00,17:48:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-05,Jueves,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:03:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:05:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-05,Jueves,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:04:00,18:00:00,18:09:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-06,Viernes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:58:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:44:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,09:32:00,18:00:00,18:00:00,Tardanza,22.0,Tardanza,Tráfico
+2026-02-06,Viernes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,08:56:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-06,Viernes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:15:00,18:00:00,18:01:00,Tardanza,5.0,Tardanza,Tráfico
+2026-02-06,Viernes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,,18:00:00,,Falta,,Falta,Inasistencia registrada
+2026-02-06,Viernes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:46:00,18:00:00,17:50:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:09:00,18:00:00,17:50:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:45:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-06,Viernes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,09:01:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-06,Viernes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:07:00,18:00:00,17:59:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,,18:00:00,,Permiso,,Permiso,Capacitación externa
+2026-02-06,Viernes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:55:00,18:00:00,18:03:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:54:00,18:00:00,17:50:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:56:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:49:00,18:00:00,17:49:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-06,Viernes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:09:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,Viernes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:03:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,Lunes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:50:00,18:00:00,17:59:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:45:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,Lunes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:55:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,08:48:00,18:00:00,18:04:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-09,Lunes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:45:00,18:00:00,18:35:00,Tardanza,35.0,Tardanza,Tráfico
+2026-02-09,Lunes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:48:00,18:00:00,18:11:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,Lunes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:52:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,Lunes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:30:00,18:00:00,18:24:00,Tardanza,20.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-09,Lunes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:04:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:54:00,18:00:00,17:59:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:08:00,18:00:00,17:48:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,Lunes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:00:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:03:00,18:00:00,18:01:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:07:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-09,Lunes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-09,Lunes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:02:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,Lunes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:49:00,18:00:00,18:07:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-09,Lunes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:13:00,18:00:00,18:07:00,Tardanza,3.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-10,Martes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:56:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-10,Martes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:54:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,Martes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:42:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,Martes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:04:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,Martes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:09:00,18:00:00,17:55:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,Martes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:58:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-10,Martes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:56:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-10,Martes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:59:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-10,Martes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:50:00,18:00:00,18:03:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-10,Martes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:57:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-10,Martes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:29:00,18:00:00,18:07:00,Tardanza,19.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-10,Martes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:44:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-10,Martes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:04:00,18:00:00,18:01:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-10,Martes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:56:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-10,Martes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-10,Martes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:10:00,18:00:00,18:25:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-10,Martes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,,18:00:00,,Permiso,,Permiso,Capacitación externa
+2026-02-10,Martes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:33:00,18:00:00,18:11:00,Tardanza,23.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-11,Miércoles,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:55:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-11,Miércoles,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:10:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:42:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:05:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,08:59:00,18:00:00,17:49:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:44:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-11,Miércoles,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:50:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:06:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:50:00,18:00:00,17:53:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,Miércoles,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,,18:00:00,,Falta,,Falta,Sin justificar
+2026-02-11,Miércoles,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:02:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-11,Miércoles,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:26:00,18:00:00,18:04:00,Tardanza,16.0,Tardanza,Demora de transporte
+2026-02-11,Miércoles,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:57:00,18:00:00,17:55:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-11,Miércoles,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:50:00,18:00:00,18:11:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-11,Miércoles,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-11,Miércoles,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:04:00,18:00:00,17:55:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-11,Miércoles,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:42:00,18:00:00,18:07:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-11,Miércoles,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:54:00,18:00:00,18:00:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-12,Jueves,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:49:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-12,Jueves,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:01:00,18:00:00,17:55:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-12,Jueves,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:55:00,18:00:00,18:11:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-12,Jueves,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:09:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,Jueves,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:02:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-12,Jueves,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:44:00,18:00:00,18:33:00,Tardanza,34.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-12,Jueves,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,09:06:00,18:00:00,18:18:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,Jueves,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:50:00,18:00:00,18:08:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-12,Jueves,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:10:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-12,Jueves,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,09:03:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,Jueves,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,,18:00:00,,Permiso,,Permiso,Trámite personal
+2026-02-12,Jueves,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:07:00,18:00:00,18:04:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,Jueves,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:10:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-12,Jueves,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,,18:00:00,,Falta,,Falta,Sin justificar
+2026-02-12,Jueves,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-12,Jueves,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:57:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-12,Jueves,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:57:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-12,Jueves,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:04:00,18:00:00,18:03:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:59:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:52:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-13,Viernes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:49:00,18:00:00,17:55:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-13,Viernes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:45:00,18:00:00,18:03:00,Tardanza,35.0,Tardanza,Demora de transporte
+2026-02-13,Viernes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:05:00,18:00:00,18:25:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-13,Viernes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:08:00,18:00:00,18:00:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:42:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-13,Viernes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:59:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-13,Viernes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:06:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-13,Viernes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:57:00,18:00:00,18:18:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:50:00,18:00:00,18:18:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-13,Viernes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:44:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-13,Viernes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:07:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:59:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-13,Viernes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-13,Viernes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:06:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:09:00,18:00:00,18:25:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,Viernes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:01:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-16,Lunes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:44:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-16,Lunes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:11:00,18:00:00,18:18:00,Tardanza,1.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-16,Lunes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:43:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,Lunes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,08:56:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:07:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:55:00,18:00:00,17:55:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:50:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-16,Lunes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:01:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,Lunes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-16,Lunes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:51:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,Lunes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:44:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-16,Lunes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:01:00,18:00:00,18:04:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-16,Lunes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:08:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:03:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:57:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:00:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-16,Lunes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:57:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,Lunes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:09:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-17,Martes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,09:03:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-17,Martes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,,18:00:00,,Permiso,,Permiso,Permiso médico
+2026-02-17,Martes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,09:06:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-17,Martes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:45:00,18:00:00,18:21:00,Tardanza,35.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-17,Martes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:01:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-17,Martes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:28:00,18:00:00,18:27:00,Tardanza,18.0,Tardanza,Demora de transporte
+2026-02-17,Martes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,09:04:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-17,Martes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,,18:00:00,,Permiso,,Permiso,Capacitación externa
+2026-02-17,Martes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-17,Martes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:47:00,18:00:00,18:07:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-17,Martes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,,18:00:00,,Falta,,Falta,Inasistencia registrada
+2026-02-17,Martes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:45:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-17,Martes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:04:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-17,Martes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:57:00,18:00:00,18:18:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-17,Martes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:48:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-17,Martes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:44:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-17,Martes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:50:00,18:00:00,17:48:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-17,Martes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:00:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-18,Miércoles,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:52:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-18,Miércoles,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:09:00,18:00:00,18:00:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-18,Miércoles,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,09:09:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-18,Miércoles,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:07:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-18,Miércoles,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:02:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-18,Miércoles,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:48:00,18:00:00,18:13:00,Tardanza,38.0,Tardanza,Demora de transporte
+2026-02-18,Miércoles,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:58:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-18,Miércoles,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:02:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-18,Miércoles,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-18,Miércoles,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:52:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-18,Miércoles,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:32:00,18:00:00,18:35:00,Tardanza,22.0,Tardanza,Tráfico
+2026-02-18,Miércoles,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:04:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-18,Miércoles,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,,18:00:00,,Permiso,,Permiso,Permiso médico
+2026-02-18,Miércoles,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:51:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-18,Miércoles,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,09:06:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-18,Miércoles,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:04:00,18:00:00,18:07:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-18,Miércoles,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:51:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-18,Miércoles,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:55:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-19,Jueves,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:44:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:00:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-19,Jueves,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:50:00,18:00:00,17:48:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,08:47:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,08:51:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:51:00,18:00:00,18:00:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:54:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:51:00,18:00:00,17:49:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-19,Jueves,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-19,Jueves,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,09:14:00,18:00:00,18:30:00,Tardanza,4.0,Tardanza,Tráfico
+2026-02-19,Jueves,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:51:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-19,Jueves,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:48:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:03:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-19,Jueves,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:43:00,18:00:00,18:07:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:46:00,18:00:00,17:53:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,Jueves,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:48:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-19,Jueves,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:58:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-19,Jueves,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:57:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-20,Viernes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:56:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-20,Viernes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:03:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-20,Viernes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:42:00,18:00:00,18:04:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-20,Viernes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:05:00,18:00:00,18:04:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-20,Viernes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,08:53:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-20,Viernes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:46:00,18:00:00,18:12:00,Tardanza,36.0,Tardanza,Tráfico
+2026-02-20,Viernes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,09:40:00,18:00:00,18:11:00,Tardanza,30.0,Tardanza,Tráfico
+2026-02-20,Viernes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:13:00,18:00:00,18:11:00,Tardanza,3.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-20,Viernes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,,18:00:00,,Vacaciones,,Vacaciones,Vacaciones programadas
+2026-02-20,Viernes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:59:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-20,Viernes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:05:00,18:00:00,18:22:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-20,Viernes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:10:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-20,Viernes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:55:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-20,Viernes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:39:00,18:00:00,18:07:00,Tardanza,29.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-20,Viernes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:59:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-20,Viernes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:45:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-20,Viernes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:01:00,18:00:00,17:49:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-20,Viernes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:46:00,18:00:00,18:24:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-23,Lunes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:48:00,18:00:00,18:25:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-23,Lunes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:06:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-23,Lunes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,,18:00:00,,Falta,,Falta,Sin justificar
+2026-02-23,Lunes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:07:00,18:00:00,17:59:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-23,Lunes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:11:00,18:00:00,18:14:00,Tardanza,1.0,Tardanza,Demora de transporte
+2026-02-23,Lunes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:27:00,18:00:00,17:55:00,Tardanza,17.0,Tardanza,Demora de transporte
+2026-02-23,Lunes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,09:05:00,18:00:00,17:52:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,Lunes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:00:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,Lunes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:43:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,Lunes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:43:00,18:00:00,18:18:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,Lunes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,09:39:00,18:00:00,17:56:00,Tardanza,29.0,Tardanza,Demora de transporte
+2026-02-23,Lunes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:46:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-23,Lunes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:52:00,18:00:00,18:12:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-23,Lunes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:01:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-23,Lunes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,09:02:00,18:00:00,18:23:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-23,Lunes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:10:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,Lunes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:55:00,18:00:00,17:54:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,Lunes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:53:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,09:16:00,18:00:00,17:57:00,Tardanza,6.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-24,Martes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:07:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:59:00,18:00:00,18:09:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:03:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,08:51:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-24,Martes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:41:00,18:00:00,18:06:00,Tardanza,31.0,Tardanza,Demora de transporte
+2026-02-24,Martes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:45:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:59:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:01:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-24,Martes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:51:00,18:00:00,18:09:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-24,Martes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,,18:00:00,,Falta,,Falta,Sin justificar
+2026-02-24,Martes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:46:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-24,Martes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:54:00,18:00:00,18:14:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-24,Martes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:05:00,18:00:00,18:08:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:46:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,09:39:00,18:00:00,18:34:00,Tardanza,29.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-24,Martes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:50:00,18:00:00,18:01:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-24,Martes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,08:51:00,18:00:00,18:25:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,Miércoles,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:49:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-25,Miércoles,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:48:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,Miércoles,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:57:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,08:49:00,18:00:00,18:20:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-25,Miércoles,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,08:44:00,18:00:00,18:13:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-25,Miércoles,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,,18:00:00,,Permiso,,Permiso,Permiso médico
+2026-02-25,Miércoles,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,09:31:00,18:00:00,18:28:00,Tardanza,21.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-25,Miércoles,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:55:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,08:47:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,Miércoles,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:44:00,18:00:00,18:15:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:58:00,18:00:00,17:53:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,Miércoles,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:49:00,18:00:00,18:09:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:58:00,18:00:00,18:20:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:05:00,18:00:00,17:57:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:47:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-25,Miércoles,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:47:00,18:00:00,18:28:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,Miércoles,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:00:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-25,Miércoles,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:02:00,18:00:00,18:27:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,Jueves,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:46:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-26,Jueves,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,09:07:00,18:00:00,18:05:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-26,Jueves,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:51:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,Jueves,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,,18:00:00,,Permiso,,Permiso,Trámite personal
+2026-02-26,Jueves,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:16:00,18:00:00,18:31:00,Tardanza,6.0,Tardanza,Tráfico
+2026-02-26,Jueves,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,08:59:00,18:00:00,17:50:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,Jueves,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:48:00,18:00:00,18:08:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-26,Jueves,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,09:14:00,18:00:00,18:20:00,Tardanza,4.0,Tardanza,Demora de transporte
+2026-02-26,Jueves,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:04:00,18:00:00,17:53:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-26,Jueves,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,09:39:00,18:00:00,18:20:00,Tardanza,29.0,Tardanza,Tráfico
+2026-02-26,Jueves,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:53:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,Jueves,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,09:01:00,18:00:00,17:51:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-26,Jueves,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,09:17:00,18:00:00,18:27:00,Tardanza,7.0,Tardanza,Tráfico
+2026-02-26,Jueves,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,09:09:00,18:00:00,18:26:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-26,Jueves,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:46:00,18:00:00,18:10:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,Jueves,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:54:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-26,Jueves,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,09:46:00,18:00:00,18:16:00,Tardanza,36.0,Tardanza,Tráfico
+2026-02-26,Jueves,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:03:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP001,Ana Torres,RRHH,Analista de RRHH,Lima,09:00:00,08:53:00,18:00:00,17:49:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,Viernes,EMP002,Luis Mendoza,Operaciones,Supervisor de Operaciones,Lima,09:00:00,08:52:00,18:00:00,18:19:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP003,Carla Rojas,Finanzas,Asistente Contable,Lima,09:00:00,08:44:00,18:00:00,18:06:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP004,Jorge Salazar,TI,Soporte TI,Lima,09:00:00,09:05:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP005,María Paredes,Comercial,Ejecutiva Comercial,Lima,09:00:00,09:01:00,18:00:00,17:56:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-27,Viernes,EMP006,Pedro Huamán,Operaciones,Analista de Campo,Callao,09:00:00,09:21:00,18:00:00,18:20:00,Tardanza,11.0,Tardanza,Demora de transporte
+2026-02-27,Viernes,EMP007,Daniela Núñez,RRHH,Coordinadora de RRHH,Lima,09:00:00,08:49:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-27,Viernes,EMP008,Carlos Mejía,TI,Desarrollador Junior,Lima,09:00:00,08:56:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-27,Viernes,EMP009,Valeria Soto,Finanzas,Analista de Tesorería,Lima,09:00:00,09:07:00,18:00:00,18:18:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP010,Miguel Chávez,Comercial,Asesor de Ventas,Surco,09:00:00,08:56:00,18:00:00,18:17:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,Viernes,EMP011,Sofía Quispe,Operaciones,Asistente Operativo,Callao,09:00:00,08:55:00,18:00:00,17:58:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP012,Ricardo León,TI,Administrador de Sistemas,Lima,09:00:00,08:50:00,18:00:00,17:51:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-27,Viernes,EMP013,Camila Vega,Comercial,Analista Comercial,Surco,09:00:00,08:45:00,18:00:00,18:21:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP014,José Cárdenas,Operaciones,Técnico de Operaciones,Callao,09:00:00,08:50:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Jornada normal
+2026-02-27,Viernes,EMP015,Lucía Herrera,Finanzas,Analista Financiera,Lima,09:00:00,08:49:00,18:00:00,18:16:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,Viernes,EMP016,Andrés Flores,RRHH,Auxiliar de Planillas,Lima,09:00:00,08:54:00,18:00:00,18:20:00,Asistencia,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,Viernes,EMP017,Paola Rivas,Comercial,Coordinadora Comercial,Surco,09:00:00,08:53:00,18:00:00,18:02:00,Asistencia,0.0,Sin novedad,Sin novedades
+2026-02-27,Viernes,EMP018,Héctor Ramos,TI,QA Tester,Lima,09:00:00,09:32:00,18:00:00,18:01:00,Tardanza,22.0,Tardanza,Demora de transporte

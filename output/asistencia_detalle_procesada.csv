@@ -1,0 +1,361 @@
+﻿Fecha,ID_Empleado,Nombre,Area,Hora_Entrada_Programada,Hora_Entrada_Real,Hora_Salida_Programada,Hora_Salida_Real,Estado,Estado_Normalizado,Minutos_Tardanza,Incidencia,Observacion
+2026-02-02,EMP001,Ana Torres,RRHH,09:00:00,09:28:00,18:00:00,18:07:00,TARDANZA,TARDANZA,18.0,Tardanza,Demora de transporte
+2026-02-02,EMP002,Luis Mendoza,Operaciones,09:00:00,09:45:00,18:00:00,17:57:00,TARDANZA,TARDANZA,35.0,Tardanza,Tráfico
+2026-02-02,EMP003,Carla Rojas,Finanzas,09:00:00,09:24:00,18:00:00,18:06:00,TARDANZA,TARDANZA,14.0,Tardanza,Tráfico
+2026-02-02,EMP004,Jorge Salazar,TI,09:00:00,09:04:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,EMP005,María Paredes,Comercial,09:00:00,09:07:00,18:00:00,17:48:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-02,EMP006,Pedro Huamán,Operaciones,09:00:00,08:46:00,18:00:00,18:01:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,EMP007,Daniela Núñez,RRHH,09:00:00,08:53:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-02,EMP008,Carlos Mejía,TI,09:00:00,09:40:00,18:00:00,18:26:00,TARDANZA,TARDANZA,30.0,Tardanza,Demora de transporte
+2026-02-02,EMP009,Valeria Soto,Finanzas,09:00:00,08:59:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-02,EMP010,Miguel Chávez,Comercial,09:00:00,09:00:00,18:00:00,18:00:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-02,EMP011,Sofía Quispe,Operaciones,09:00:00,09:06:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-02,EMP012,Ricardo León,TI,09:00:00,08:54:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,EMP013,Camila Vega,Comercial,09:00:00,08:53:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-02,EMP014,José Cárdenas,Operaciones,09:00:00,09:03:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-02,EMP015,Lucía Herrera,Finanzas,09:00:00,08:49:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-02,EMP016,Andrés Flores,RRHH,09:00:00,09:02:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-02,EMP017,Paola Rivas,Comercial,09:00:00,09:06:00,18:00:00,17:51:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-02,EMP018,Héctor Ramos,TI,09:00:00,08:54:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP001,Ana Torres,RRHH,09:00:00,09:10:00,18:00:00,18:08:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP002,Luis Mendoza,Operaciones,09:00:00,09:02:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP003,Carla Rojas,Finanzas,09:00:00,08:59:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP004,Jorge Salazar,TI,09:00:00,09:00:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP005,María Paredes,Comercial,09:00:00,08:58:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP006,Pedro Huamán,Operaciones,09:00:00,08:46:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP007,Daniela Núñez,RRHH,09:00:00,08:44:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP008,Carlos Mejía,TI,09:00:00,08:50:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP009,Valeria Soto,Finanzas,09:00:00,09:10:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP010,Miguel Chávez,Comercial,09:00:00,08:51:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP011,Sofía Quispe,Operaciones,09:00:00,09:10:00,18:00:00,18:04:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-03,EMP012,Ricardo León,TI,09:00:00,08:45:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP013,Camila Vega,Comercial,09:00:00,08:48:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP014,José Cárdenas,Operaciones,09:00:00,09:06:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP015,Lucía Herrera,Finanzas,09:00:00,08:45:00,18:00:00,18:11:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-03,EMP016,Andrés Flores,RRHH,09:00:00,09:00:00,18:00:00,17:53:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP017,Paola Rivas,Comercial,09:00:00,09:06:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-03,EMP018,Héctor Ramos,TI,09:00:00,08:59:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,EMP001,Ana Torres,RRHH,09:00:00,08:48:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-04,EMP002,Luis Mendoza,Operaciones,09:00:00,08:54:00,18:00:00,18:11:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,EMP003,Carla Rojas,Finanzas,09:00:00,08:49:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP004,Jorge Salazar,TI,09:00:00,08:49:00,18:00:00,18:25:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP005,María Paredes,Comercial,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Sin justificar
+2026-02-04,EMP006,Pedro Huamán,Operaciones,09:00:00,09:09:00,18:00:00,18:09:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP007,Daniela Núñez,RRHH,09:00:00,08:57:00,18:00:00,18:01:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-04,EMP008,Carlos Mejía,TI,09:00:00,09:00:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,EMP009,Valeria Soto,Finanzas,09:00:00,08:55:00,18:00:00,18:00:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP010,Miguel Chávez,Comercial,09:00:00,08:55:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,EMP011,Sofía Quispe,Operaciones,09:00:00,09:17:00,18:00:00,17:55:00,TARDANZA,TARDANZA,7.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-04,EMP012,Ricardo León,TI,09:00:00,08:45:00,18:00:00,18:03:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP013,Camila Vega,Comercial,09:00:00,08:55:00,18:00:00,17:59:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,EMP014,José Cárdenas,Operaciones,09:00:00,08:44:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-04,EMP015,Lucía Herrera,Finanzas,09:00:00,08:59:00,18:00:00,17:48:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP016,Andrés Flores,RRHH,09:00:00,08:47:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-04,EMP017,Paola Rivas,Comercial,09:00:00,09:10:00,18:00:00,17:51:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-04,EMP018,Héctor Ramos,TI,09:00:00,08:50:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-05,EMP001,Ana Torres,RRHH,09:00:00,09:07:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-05,EMP002,Luis Mendoza,Operaciones,09:00:00,09:29:00,18:00:00,18:05:00,TARDANZA,TARDANZA,19.0,Tardanza,Demora de transporte
+2026-02-05,EMP003,Carla Rojas,Finanzas,09:00:00,09:05:00,18:00:00,18:08:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP004,Jorge Salazar,TI,09:00:00,09:09:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP005,María Paredes,Comercial,09:00:00,09:09:00,18:00:00,17:59:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP006,Pedro Huamán,Operaciones,09:00:00,08:49:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP007,Daniela Núñez,RRHH,09:00:00,09:00:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP008,Carlos Mejía,TI,09:00:00,09:00:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-05,EMP009,Valeria Soto,Finanzas,09:00:00,09:03:00,18:00:00,18:08:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP010,Miguel Chávez,Comercial,09:00:00,09:30:00,18:00:00,18:21:00,TARDANZA,TARDANZA,20.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-05,EMP011,Sofía Quispe,Operaciones,09:00:00,08:42:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-05,EMP012,Ricardo León,TI,09:00:00,08:44:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP013,Camila Vega,Comercial,09:00:00,08:53:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP014,José Cárdenas,Operaciones,09:00:00,09:45:00,18:00:00,18:11:00,TARDANZA,TARDANZA,35.0,Tardanza,Tráfico
+2026-02-05,EMP015,Lucía Herrera,Finanzas,09:00:00,08:58:00,18:00:00,17:48:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-05,EMP016,Andrés Flores,RRHH,09:00:00,09:03:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP017,Paola Rivas,Comercial,09:00:00,09:05:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-05,EMP018,Héctor Ramos,TI,09:00:00,09:04:00,18:00:00,18:09:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-06,EMP001,Ana Torres,RRHH,09:00:00,08:58:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP002,Luis Mendoza,Operaciones,09:00:00,08:44:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP003,Carla Rojas,Finanzas,09:00:00,09:32:00,18:00:00,18:00:00,TARDANZA,TARDANZA,22.0,Tardanza,Tráfico
+2026-02-06,EMP004,Jorge Salazar,TI,09:00:00,08:56:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-06,EMP005,María Paredes,Comercial,09:00:00,09:15:00,18:00:00,18:01:00,TARDANZA,TARDANZA,5.0,Tardanza,Tráfico
+2026-02-06,EMP006,Pedro Huamán,Operaciones,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Inasistencia registrada
+2026-02-06,EMP007,Daniela Núñez,RRHH,09:00:00,08:46:00,18:00:00,17:50:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP008,Carlos Mejía,TI,09:00:00,09:09:00,18:00:00,17:50:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP009,Valeria Soto,Finanzas,09:00:00,08:45:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-06,EMP010,Miguel Chávez,Comercial,09:00:00,09:01:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-06,EMP011,Sofía Quispe,Operaciones,09:00:00,09:07:00,18:00:00,17:59:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP012,Ricardo León,TI,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Capacitación externa
+2026-02-06,EMP013,Camila Vega,Comercial,09:00:00,08:55:00,18:00:00,18:03:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP014,José Cárdenas,Operaciones,09:00:00,08:54:00,18:00:00,17:50:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP015,Lucía Herrera,Finanzas,09:00:00,08:56:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP016,Andrés Flores,RRHH,09:00:00,08:49:00,18:00:00,17:49:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-06,EMP017,Paola Rivas,Comercial,09:00:00,09:09:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-06,EMP018,Héctor Ramos,TI,09:00:00,09:03:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,EMP001,Ana Torres,RRHH,09:00:00,08:50:00,18:00:00,17:59:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP002,Luis Mendoza,Operaciones,09:00:00,08:45:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,EMP003,Carla Rojas,Finanzas,09:00:00,08:55:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP004,Jorge Salazar,TI,09:00:00,08:48:00,18:00:00,18:04:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-09,EMP005,María Paredes,Comercial,09:00:00,09:45:00,18:00:00,18:35:00,TARDANZA,TARDANZA,35.0,Tardanza,Tráfico
+2026-02-09,EMP006,Pedro Huamán,Operaciones,09:00:00,08:48:00,18:00:00,18:11:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,EMP007,Daniela Núñez,RRHH,09:00:00,08:52:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,EMP008,Carlos Mejía,TI,09:00:00,09:30:00,18:00:00,18:24:00,TARDANZA,TARDANZA,20.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-09,EMP009,Valeria Soto,Finanzas,09:00:00,09:04:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP010,Miguel Chávez,Comercial,09:00:00,08:54:00,18:00:00,17:59:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP011,Sofía Quispe,Operaciones,09:00:00,09:08:00,18:00:00,17:48:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,EMP012,Ricardo León,TI,09:00:00,09:00:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP013,Camila Vega,Comercial,09:00:00,09:03:00,18:00:00,18:01:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP014,José Cárdenas,Operaciones,09:00:00,09:07:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-09,EMP015,Lucía Herrera,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-09,EMP016,Andrés Flores,RRHH,09:00:00,09:02:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-09,EMP017,Paola Rivas,Comercial,09:00:00,08:49:00,18:00:00,18:07:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-09,EMP018,Héctor Ramos,TI,09:00:00,09:13:00,18:00:00,18:07:00,TARDANZA,TARDANZA,3.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-10,EMP001,Ana Torres,RRHH,09:00:00,08:56:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-10,EMP002,Luis Mendoza,Operaciones,09:00:00,08:54:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,EMP003,Carla Rojas,Finanzas,09:00:00,08:42:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,EMP004,Jorge Salazar,TI,09:00:00,09:04:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,EMP005,María Paredes,Comercial,09:00:00,09:09:00,18:00:00,17:55:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-10,EMP006,Pedro Huamán,Operaciones,09:00:00,08:58:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-10,EMP007,Daniela Núñez,RRHH,09:00:00,08:56:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-10,EMP008,Carlos Mejía,TI,09:00:00,08:59:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-10,EMP009,Valeria Soto,Finanzas,09:00:00,08:50:00,18:00:00,18:03:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-10,EMP010,Miguel Chávez,Comercial,09:00:00,08:57:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-10,EMP011,Sofía Quispe,Operaciones,09:00:00,09:29:00,18:00:00,18:07:00,TARDANZA,TARDANZA,19.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-10,EMP012,Ricardo León,TI,09:00:00,08:44:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-10,EMP013,Camila Vega,Comercial,09:00:00,09:04:00,18:00:00,18:01:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-10,EMP014,José Cárdenas,Operaciones,09:00:00,08:56:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-10,EMP015,Lucía Herrera,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-10,EMP016,Andrés Flores,RRHH,09:00:00,09:10:00,18:00:00,18:25:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-10,EMP017,Paola Rivas,Comercial,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Capacitación externa
+2026-02-10,EMP018,Héctor Ramos,TI,09:00:00,09:33:00,18:00:00,18:11:00,TARDANZA,TARDANZA,23.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-11,EMP001,Ana Torres,RRHH,09:00:00,08:55:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-11,EMP002,Luis Mendoza,Operaciones,09:00:00,09:10:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP003,Carla Rojas,Finanzas,09:00:00,08:42:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP004,Jorge Salazar,TI,09:00:00,09:05:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP005,María Paredes,Comercial,09:00:00,08:59:00,18:00:00,17:49:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP006,Pedro Huamán,Operaciones,09:00:00,08:44:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-11,EMP007,Daniela Núñez,RRHH,09:00:00,08:50:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP008,Carlos Mejía,TI,09:00:00,09:06:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP009,Valeria Soto,Finanzas,09:00:00,08:50:00,18:00:00,17:53:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-11,EMP010,Miguel Chávez,Comercial,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Sin justificar
+2026-02-11,EMP011,Sofía Quispe,Operaciones,09:00:00,09:02:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-11,EMP012,Ricardo León,TI,09:00:00,09:26:00,18:00:00,18:04:00,TARDANZA,TARDANZA,16.0,Tardanza,Demora de transporte
+2026-02-11,EMP013,Camila Vega,Comercial,09:00:00,08:57:00,18:00:00,17:55:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-11,EMP014,José Cárdenas,Operaciones,09:00:00,08:50:00,18:00:00,18:11:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-11,EMP015,Lucía Herrera,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-11,EMP016,Andrés Flores,RRHH,09:00:00,09:04:00,18:00:00,17:55:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-11,EMP017,Paola Rivas,Comercial,09:00:00,08:42:00,18:00:00,18:07:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-11,EMP018,Héctor Ramos,TI,09:00:00,08:54:00,18:00:00,18:00:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-12,EMP001,Ana Torres,RRHH,09:00:00,08:49:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-12,EMP002,Luis Mendoza,Operaciones,09:00:00,09:01:00,18:00:00,17:55:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-12,EMP003,Carla Rojas,Finanzas,09:00:00,08:55:00,18:00:00,18:11:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-12,EMP004,Jorge Salazar,TI,09:00:00,09:09:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,EMP005,María Paredes,Comercial,09:00:00,09:02:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-12,EMP006,Pedro Huamán,Operaciones,09:00:00,09:44:00,18:00:00,18:33:00,TARDANZA,TARDANZA,34.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-12,EMP007,Daniela Núñez,RRHH,09:00:00,09:06:00,18:00:00,18:18:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,EMP008,Carlos Mejía,TI,09:00:00,08:50:00,18:00:00,18:08:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-12,EMP009,Valeria Soto,Finanzas,09:00:00,09:10:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-12,EMP010,Miguel Chávez,Comercial,09:00:00,09:03:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,EMP011,Sofía Quispe,Operaciones,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Trámite personal
+2026-02-12,EMP012,Ricardo León,TI,09:00:00,09:07:00,18:00:00,18:04:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-12,EMP013,Camila Vega,Comercial,09:00:00,09:10:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-12,EMP014,José Cárdenas,Operaciones,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Sin justificar
+2026-02-12,EMP015,Lucía Herrera,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-12,EMP016,Andrés Flores,RRHH,09:00:00,08:57:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-12,EMP017,Paola Rivas,Comercial,09:00:00,08:57:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-12,EMP018,Héctor Ramos,TI,09:00:00,09:04:00,18:00:00,18:03:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP001,Ana Torres,RRHH,09:00:00,08:59:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP002,Luis Mendoza,Operaciones,09:00:00,08:52:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-13,EMP003,Carla Rojas,Finanzas,09:00:00,08:49:00,18:00:00,17:55:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-13,EMP004,Jorge Salazar,TI,09:00:00,09:45:00,18:00:00,18:03:00,TARDANZA,TARDANZA,35.0,Tardanza,Demora de transporte
+2026-02-13,EMP005,María Paredes,Comercial,09:00:00,09:05:00,18:00:00,18:25:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-13,EMP006,Pedro Huamán,Operaciones,09:00:00,09:08:00,18:00:00,18:00:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP007,Daniela Núñez,RRHH,09:00:00,08:42:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-13,EMP008,Carlos Mejía,TI,09:00:00,08:59:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-13,EMP009,Valeria Soto,Finanzas,09:00:00,09:06:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-13,EMP010,Miguel Chávez,Comercial,09:00:00,08:57:00,18:00:00,18:18:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP011,Sofía Quispe,Operaciones,09:00:00,08:50:00,18:00:00,18:18:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-13,EMP012,Ricardo León,TI,09:00:00,08:44:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-13,EMP013,Camila Vega,Comercial,09:00:00,09:07:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP014,José Cárdenas,Operaciones,09:00:00,08:59:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-13,EMP015,Lucía Herrera,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-13,EMP016,Andrés Flores,RRHH,09:00:00,09:06:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP017,Paola Rivas,Comercial,09:00:00,09:09:00,18:00:00,18:25:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-13,EMP018,Héctor Ramos,TI,09:00:00,09:01:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-16,EMP001,Ana Torres,RRHH,09:00:00,08:44:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-16,EMP002,Luis Mendoza,Operaciones,09:00:00,09:11:00,18:00:00,18:18:00,TARDANZA,TARDANZA,1.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-16,EMP003,Carla Rojas,Finanzas,09:00:00,08:43:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,EMP004,Jorge Salazar,TI,09:00:00,08:56:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP005,María Paredes,Comercial,09:00:00,09:07:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP006,Pedro Huamán,Operaciones,09:00:00,08:55:00,18:00:00,17:55:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP007,Daniela Núñez,RRHH,09:00:00,08:50:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-16,EMP008,Carlos Mejía,TI,09:00:00,09:01:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,EMP009,Valeria Soto,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-16,EMP010,Miguel Chávez,Comercial,09:00:00,08:51:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,EMP011,Sofía Quispe,Operaciones,09:00:00,08:44:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-16,EMP012,Ricardo León,TI,09:00:00,09:01:00,18:00:00,18:04:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-16,EMP013,Camila Vega,Comercial,09:00:00,09:08:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP014,José Cárdenas,Operaciones,09:00:00,09:03:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP015,Lucía Herrera,Finanzas,09:00:00,08:57:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP016,Andrés Flores,RRHH,09:00:00,09:00:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-16,EMP017,Paola Rivas,Comercial,09:00:00,08:57:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-16,EMP018,Héctor Ramos,TI,09:00:00,09:09:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-17,EMP001,Ana Torres,RRHH,09:00:00,09:03:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-17,EMP002,Luis Mendoza,Operaciones,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Permiso médico
+2026-02-17,EMP003,Carla Rojas,Finanzas,09:00:00,09:06:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-17,EMP004,Jorge Salazar,TI,09:00:00,09:45:00,18:00:00,18:21:00,TARDANZA,TARDANZA,35.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-17,EMP005,María Paredes,Comercial,09:00:00,09:01:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-17,EMP006,Pedro Huamán,Operaciones,09:00:00,09:28:00,18:00:00,18:27:00,TARDANZA,TARDANZA,18.0,Tardanza,Demora de transporte
+2026-02-17,EMP007,Daniela Núñez,RRHH,09:00:00,09:04:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-17,EMP008,Carlos Mejía,TI,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Capacitación externa
+2026-02-17,EMP009,Valeria Soto,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-17,EMP010,Miguel Chávez,Comercial,09:00:00,08:47:00,18:00:00,18:07:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-17,EMP011,Sofía Quispe,Operaciones,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Inasistencia registrada
+2026-02-17,EMP012,Ricardo León,TI,09:00:00,08:45:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-17,EMP013,Camila Vega,Comercial,09:00:00,09:04:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-17,EMP014,José Cárdenas,Operaciones,09:00:00,08:57:00,18:00:00,18:18:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-17,EMP015,Lucía Herrera,Finanzas,09:00:00,08:48:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-17,EMP016,Andrés Flores,RRHH,09:00:00,08:44:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-17,EMP017,Paola Rivas,Comercial,09:00:00,08:50:00,18:00:00,17:48:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-17,EMP018,Héctor Ramos,TI,09:00:00,09:00:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-18,EMP001,Ana Torres,RRHH,09:00:00,08:52:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-18,EMP002,Luis Mendoza,Operaciones,09:00:00,09:09:00,18:00:00,18:00:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-18,EMP003,Carla Rojas,Finanzas,09:00:00,09:09:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-18,EMP004,Jorge Salazar,TI,09:00:00,09:07:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-18,EMP005,María Paredes,Comercial,09:00:00,09:02:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-18,EMP006,Pedro Huamán,Operaciones,09:00:00,09:48:00,18:00:00,18:13:00,TARDANZA,TARDANZA,38.0,Tardanza,Demora de transporte
+2026-02-18,EMP007,Daniela Núñez,RRHH,09:00:00,08:58:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-18,EMP008,Carlos Mejía,TI,09:00:00,09:02:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-18,EMP009,Valeria Soto,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-18,EMP010,Miguel Chávez,Comercial,09:00:00,08:52:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-18,EMP011,Sofía Quispe,Operaciones,09:00:00,09:32:00,18:00:00,18:35:00,TARDANZA,TARDANZA,22.0,Tardanza,Tráfico
+2026-02-18,EMP012,Ricardo León,TI,09:00:00,09:04:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-18,EMP013,Camila Vega,Comercial,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Permiso médico
+2026-02-18,EMP014,José Cárdenas,Operaciones,09:00:00,08:51:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-18,EMP015,Lucía Herrera,Finanzas,09:00:00,09:06:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-18,EMP016,Andrés Flores,RRHH,09:00:00,09:04:00,18:00:00,18:07:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-18,EMP017,Paola Rivas,Comercial,09:00:00,08:51:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-18,EMP018,Héctor Ramos,TI,09:00:00,08:55:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-19,EMP001,Ana Torres,RRHH,09:00:00,08:44:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP002,Luis Mendoza,Operaciones,09:00:00,09:00:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-19,EMP003,Carla Rojas,Finanzas,09:00:00,08:50:00,18:00:00,17:48:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP004,Jorge Salazar,TI,09:00:00,08:47:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP005,María Paredes,Comercial,09:00:00,08:51:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP006,Pedro Huamán,Operaciones,09:00:00,08:51:00,18:00:00,18:00:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP007,Daniela Núñez,RRHH,09:00:00,08:54:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP008,Carlos Mejía,TI,09:00:00,08:51:00,18:00:00,17:49:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-19,EMP009,Valeria Soto,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-19,EMP010,Miguel Chávez,Comercial,09:00:00,09:14:00,18:00:00,18:30:00,TARDANZA,TARDANZA,4.0,Tardanza,Tráfico
+2026-02-19,EMP011,Sofía Quispe,Operaciones,09:00:00,08:51:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-19,EMP012,Ricardo León,TI,09:00:00,08:48:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP013,Camila Vega,Comercial,09:00:00,09:03:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-19,EMP014,José Cárdenas,Operaciones,09:00:00,08:43:00,18:00:00,18:07:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP015,Lucía Herrera,Finanzas,09:00:00,08:46:00,18:00:00,17:53:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-19,EMP016,Andrés Flores,RRHH,09:00:00,08:48:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-19,EMP017,Paola Rivas,Comercial,09:00:00,08:58:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-19,EMP018,Héctor Ramos,TI,09:00:00,08:57:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-20,EMP001,Ana Torres,RRHH,09:00:00,08:56:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-20,EMP002,Luis Mendoza,Operaciones,09:00:00,09:03:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-20,EMP003,Carla Rojas,Finanzas,09:00:00,08:42:00,18:00:00,18:04:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-20,EMP004,Jorge Salazar,TI,09:00:00,09:05:00,18:00:00,18:04:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-20,EMP005,María Paredes,Comercial,09:00:00,08:53:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-20,EMP006,Pedro Huamán,Operaciones,09:00:00,09:46:00,18:00:00,18:12:00,TARDANZA,TARDANZA,36.0,Tardanza,Tráfico
+2026-02-20,EMP007,Daniela Núñez,RRHH,09:00:00,09:40:00,18:00:00,18:11:00,TARDANZA,TARDANZA,30.0,Tardanza,Tráfico
+2026-02-20,EMP008,Carlos Mejía,TI,09:00:00,09:13:00,18:00:00,18:11:00,TARDANZA,TARDANZA,3.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-20,EMP009,Valeria Soto,Finanzas,09:00:00,,18:00:00,,VACACIONES,VACACIONES,0.0,Vacaciones,Vacaciones programadas
+2026-02-20,EMP010,Miguel Chávez,Comercial,09:00:00,08:59:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-20,EMP011,Sofía Quispe,Operaciones,09:00:00,09:05:00,18:00:00,18:22:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-20,EMP012,Ricardo León,TI,09:00:00,09:10:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-20,EMP013,Camila Vega,Comercial,09:00:00,08:55:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-20,EMP014,José Cárdenas,Operaciones,09:00:00,09:39:00,18:00:00,18:07:00,TARDANZA,TARDANZA,29.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-20,EMP015,Lucía Herrera,Finanzas,09:00:00,08:59:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-20,EMP016,Andrés Flores,RRHH,09:00:00,08:45:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-20,EMP017,Paola Rivas,Comercial,09:00:00,09:01:00,18:00:00,17:49:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-20,EMP018,Héctor Ramos,TI,09:00:00,08:46:00,18:00:00,18:24:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-23,EMP001,Ana Torres,RRHH,09:00:00,08:48:00,18:00:00,18:25:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-23,EMP002,Luis Mendoza,Operaciones,09:00:00,09:06:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-23,EMP003,Carla Rojas,Finanzas,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Sin justificar
+2026-02-23,EMP004,Jorge Salazar,TI,09:00:00,09:07:00,18:00:00,17:59:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-23,EMP005,María Paredes,Comercial,09:00:00,09:11:00,18:00:00,18:14:00,TARDANZA,TARDANZA,1.0,Tardanza,Demora de transporte
+2026-02-23,EMP006,Pedro Huamán,Operaciones,09:00:00,09:27:00,18:00:00,17:55:00,TARDANZA,TARDANZA,17.0,Tardanza,Demora de transporte
+2026-02-23,EMP007,Daniela Núñez,RRHH,09:00:00,09:05:00,18:00:00,17:52:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,EMP008,Carlos Mejía,TI,09:00:00,09:00:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,EMP009,Valeria Soto,Finanzas,09:00:00,08:43:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,EMP010,Miguel Chávez,Comercial,09:00:00,08:43:00,18:00:00,18:18:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,EMP011,Sofía Quispe,Operaciones,09:00:00,09:39:00,18:00:00,17:56:00,TARDANZA,TARDANZA,29.0,Tardanza,Demora de transporte
+2026-02-23,EMP012,Ricardo León,TI,09:00:00,08:46:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-23,EMP013,Camila Vega,Comercial,09:00:00,08:52:00,18:00:00,18:12:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-23,EMP014,José Cárdenas,Operaciones,09:00:00,09:01:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-23,EMP015,Lucía Herrera,Finanzas,09:00:00,09:02:00,18:00:00,18:23:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-23,EMP016,Andrés Flores,RRHH,09:00:00,09:10:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,EMP017,Paola Rivas,Comercial,09:00:00,08:55:00,18:00:00,17:54:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-23,EMP018,Héctor Ramos,TI,09:00:00,08:53:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP001,Ana Torres,RRHH,09:00:00,09:16:00,18:00:00,17:57:00,TARDANZA,TARDANZA,6.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-24,EMP002,Luis Mendoza,Operaciones,09:00:00,09:07:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP003,Carla Rojas,Finanzas,09:00:00,08:59:00,18:00:00,18:09:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP004,Jorge Salazar,TI,09:00:00,09:03:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP005,María Paredes,Comercial,09:00:00,08:51:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-24,EMP006,Pedro Huamán,Operaciones,09:00:00,09:41:00,18:00:00,18:06:00,TARDANZA,TARDANZA,31.0,Tardanza,Demora de transporte
+2026-02-24,EMP007,Daniela Núñez,RRHH,09:00:00,08:45:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP008,Carlos Mejía,TI,09:00:00,08:59:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP009,Valeria Soto,Finanzas,09:00:00,09:01:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-24,EMP010,Miguel Chávez,Comercial,09:00:00,08:51:00,18:00:00,18:09:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-24,EMP011,Sofía Quispe,Operaciones,09:00:00,,18:00:00,,FALTA,FALTA,0.0,Falta,Sin justificar
+2026-02-24,EMP012,Ricardo León,TI,09:00:00,08:46:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-24,EMP013,Camila Vega,Comercial,09:00:00,08:54:00,18:00:00,18:14:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-24,EMP014,José Cárdenas,Operaciones,09:00:00,09:05:00,18:00:00,18:08:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP015,Lucía Herrera,Finanzas,09:00:00,08:46:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP016,Andrés Flores,RRHH,09:00:00,09:39:00,18:00:00,18:34:00,TARDANZA,TARDANZA,29.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-24,EMP017,Paola Rivas,Comercial,09:00:00,08:50:00,18:00:00,18:01:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-24,EMP018,Héctor Ramos,TI,09:00:00,08:51:00,18:00:00,18:25:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,EMP001,Ana Torres,RRHH,09:00:00,08:49:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-25,EMP002,Luis Mendoza,Operaciones,09:00:00,08:48:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,EMP003,Carla Rojas,Finanzas,09:00:00,08:57:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP004,Jorge Salazar,TI,09:00:00,08:49:00,18:00:00,18:20:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-25,EMP005,María Paredes,Comercial,09:00:00,08:44:00,18:00:00,18:13:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-25,EMP006,Pedro Huamán,Operaciones,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Permiso médico
+2026-02-25,EMP007,Daniela Núñez,RRHH,09:00:00,09:31:00,18:00:00,18:28:00,TARDANZA,TARDANZA,21.0,Tardanza,Ingreso fuera de tolerancia
+2026-02-25,EMP008,Carlos Mejía,TI,09:00:00,08:55:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP009,Valeria Soto,Finanzas,09:00:00,08:47:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,EMP010,Miguel Chávez,Comercial,09:00:00,08:44:00,18:00:00,18:15:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP011,Sofía Quispe,Operaciones,09:00:00,08:58:00,18:00:00,17:53:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,EMP012,Ricardo León,TI,09:00:00,08:49:00,18:00:00,18:09:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP013,Camila Vega,Comercial,09:00:00,08:58:00,18:00:00,18:20:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP014,José Cárdenas,Operaciones,09:00:00,09:05:00,18:00:00,17:57:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP015,Lucía Herrera,Finanzas,09:00:00,08:47:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-25,EMP016,Andrés Flores,RRHH,09:00:00,08:47:00,18:00:00,18:28:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-25,EMP017,Paola Rivas,Comercial,09:00:00,09:00:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-25,EMP018,Héctor Ramos,TI,09:00:00,09:02:00,18:00:00,18:27:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,EMP001,Ana Torres,RRHH,09:00:00,08:46:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-26,EMP002,Luis Mendoza,Operaciones,09:00:00,09:07:00,18:00:00,18:05:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-26,EMP003,Carla Rojas,Finanzas,09:00:00,08:51:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,EMP004,Jorge Salazar,TI,09:00:00,,18:00:00,,PERMISO,PERMISO,0.0,Permiso,Trámite personal
+2026-02-26,EMP005,María Paredes,Comercial,09:00:00,09:16:00,18:00:00,18:31:00,TARDANZA,TARDANZA,6.0,Tardanza,Tráfico
+2026-02-26,EMP006,Pedro Huamán,Operaciones,09:00:00,08:59:00,18:00:00,17:50:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,EMP007,Daniela Núñez,RRHH,09:00:00,08:48:00,18:00:00,18:08:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-26,EMP008,Carlos Mejía,TI,09:00:00,09:14:00,18:00:00,18:20:00,TARDANZA,TARDANZA,4.0,Tardanza,Demora de transporte
+2026-02-26,EMP009,Valeria Soto,Finanzas,09:00:00,09:04:00,18:00:00,17:53:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-26,EMP010,Miguel Chávez,Comercial,09:00:00,09:39:00,18:00:00,18:20:00,TARDANZA,TARDANZA,29.0,Tardanza,Tráfico
+2026-02-26,EMP011,Sofía Quispe,Operaciones,09:00:00,08:53:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,EMP012,Ricardo León,TI,09:00:00,09:01:00,18:00:00,17:51:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-26,EMP013,Camila Vega,Comercial,09:00:00,09:17:00,18:00:00,18:27:00,TARDANZA,TARDANZA,7.0,Tardanza,Tráfico
+2026-02-26,EMP014,José Cárdenas,Operaciones,09:00:00,09:09:00,18:00:00,18:26:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-26,EMP015,Lucía Herrera,Finanzas,09:00:00,08:46:00,18:00:00,18:10:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-26,EMP016,Andrés Flores,RRHH,09:00:00,08:54:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-26,EMP017,Paola Rivas,Comercial,09:00:00,09:46:00,18:00:00,18:16:00,TARDANZA,TARDANZA,36.0,Tardanza,Tráfico
+2026-02-26,EMP018,Héctor Ramos,TI,09:00:00,09:03:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP001,Ana Torres,RRHH,09:00:00,08:53:00,18:00:00,17:49:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,EMP002,Luis Mendoza,Operaciones,09:00:00,08:52:00,18:00:00,18:19:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP003,Carla Rojas,Finanzas,09:00:00,08:44:00,18:00:00,18:06:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP004,Jorge Salazar,TI,09:00:00,09:05:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP005,María Paredes,Comercial,09:00:00,09:01:00,18:00:00,17:56:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-27,EMP006,Pedro Huamán,Operaciones,09:00:00,09:21:00,18:00:00,18:20:00,TARDANZA,TARDANZA,11.0,Tardanza,Demora de transporte
+2026-02-27,EMP007,Daniela Núñez,RRHH,09:00:00,08:49:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-27,EMP008,Carlos Mejía,TI,09:00:00,08:56:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-27,EMP009,Valeria Soto,Finanzas,09:00:00,09:07:00,18:00:00,18:18:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP010,Miguel Chávez,Comercial,09:00:00,08:56:00,18:00:00,18:17:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,EMP011,Sofía Quispe,Operaciones,09:00:00,08:55:00,18:00:00,17:58:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP012,Ricardo León,TI,09:00:00,08:50:00,18:00:00,17:51:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-27,EMP013,Camila Vega,Comercial,09:00:00,08:45:00,18:00:00,18:21:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP014,José Cárdenas,Operaciones,09:00:00,08:50:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Jornada normal
+2026-02-27,EMP015,Lucía Herrera,Finanzas,09:00:00,08:49:00,18:00:00,18:16:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,EMP016,Andrés Flores,RRHH,09:00:00,08:54:00,18:00:00,18:20:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Registro biométrico correcto
+2026-02-27,EMP017,Paola Rivas,Comercial,09:00:00,08:53:00,18:00:00,18:02:00,ASISTENCIA,ASISTENCIA,0.0,Sin novedad,Sin novedades
+2026-02-27,EMP018,Héctor Ramos,TI,09:00:00,09:32:00,18:00:00,18:01:00,TARDANZA,TARDANZA,22.0,Tardanza,Demora de transporte
